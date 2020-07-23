@@ -11,7 +11,7 @@ The fasta formatted database for dada2 was generated from the modified XML file.
 
 Taxonomy in the fasta file is in the following format:
 
->Domain; Phylum; Class; Order; Family; Genus
+> \>Domain; Phylum; Class; Order; Family; Genus
 ACCTAGAAAGTCGTAGATCGAAGTTGAAGCATCGCCCGATGATCGTCTGAAGCTGTAGCATGAGTCGATTTTCACATTCAGGGATACCATAGGATAC
 
 Three versions of the database are included: 
