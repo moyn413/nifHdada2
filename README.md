@@ -2,12 +2,22 @@
 This is a nifH database formated for dada2. 
 
 The database is based on the ARB nifH database from the Zehr Lab (Heller 2014), which was reformatted, modified, and updated. 
-A log of modifications made between the nifH June 2017 ARB file and this database can be found in this repository (link).Modifications were based on information available on NCBI. 
+A log of modifications can be found in this repository (link). Modifications were based on information available on NCBI. 
 
 # Database generation
-Modifications were made directly in an XML file exported from ARB (link).
+Modifications were made directly in an XML file exported from ARB (link). The XML file contains detailed information for each entry, including accession number, full taxon name, taxonomy, amino acid and nucleotide sequences.
 
 The fasta formatted database for dada2 was generated from the modified XML file. The script for parsing data and generating the fasta file is included in this repository (link).
+
+Taxonomy in the fasta file is in the following format:
+
+>Domain; Phylum; Class; Order; Family; Genus
+ACCTAGAAAGTCGTAGATCGAAGTTGAAGCATCGCCCGATGATCGTCTGAAGCTGTAGCATGAGTCGATTTTCACATTCAGGGATACCATAGGATAC
+
+Three versions of the database are included: 
+1. All sequences from the original nifH database (nifH2017_dada2_all.fasta)
+2. Only sequences identified to the Domain level or more (nifH2017_dada2_Domain.fasta)
+3. Only sequences idetified to the Phylum level or more (nifH2017_dada2_Phylum.fasta)
 
 # Please cite
 M. A. Moynihan ... DOI.
