@@ -32,8 +32,8 @@ seq <- xpathSApply(nifH,"//data",xmlValue)              # sequence
 seq <- toupper(seq)   
 
 # bind into tibble
-df=cbind(name,tax,acc,seq)
-df=as_tibble(df)
+df <- cbind(name,tax,acc,seq)
+df <- as_tibble(df)
 
 
 ##------------------Clean up XML file text-----------------------------------------
