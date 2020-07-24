@@ -13,9 +13,9 @@ Taxonomy in the fasta file is in the following format:
 ACCTAGAAAGTCGTAGATCGAAGTTGAAGCATCGCCCGATGATCGTCTGAAGCTGTAGCATGAGTCGATTTTCACATTCAGGGATACCATAGGATAC
 
 Three versions of the database are included: 
-1. All sequences from the original nifH database (nifH2017_dada2_all.fasta)
-2. Only sequences identified to the Domain level or more (nifH2017_dada2_domain.fasta)
-3. Only sequences idetified to the Phylum level or more (nifH2017_dada2_phylum.fasta)
+1. All sequences from the original nifH database (nifH_dada2_all_v1.fasta)
+2. Only sequences identified to the Domain level or more (nifH_dada2_domain_v1.fasta)
+3. Only sequences idetified to the Phylum level or more (nifH_dada2_phylum_v1.fasta)
 
 # Please cite
 M. A. Moynihan ... DOI.
