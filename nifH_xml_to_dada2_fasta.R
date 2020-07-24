@@ -49,7 +49,8 @@ df <- as_tibble(df)
 ##---------------------------------------------------------------------------------
 
 
-# Removes both the parentheses and what is inside of the parentheses (usually alternative species name). This helps ensure that the name and tax columns match exactly.
+# Removes both the parentheses and what is inside of the parentheses (usually alternative species name). 
+# This helps ensure that the name and tax columns match exactly.
 
 df1 <-df %>%  mutate_at(c("name", "tax"), str_replace_all, pattern= "\\(.*\\)", replacement="")      
 
@@ -96,20 +97,20 @@ writeFasta<-function(data, filename){
 }
 
 
-#all data from file, including unclassified samples
+#Generate fasta with all sequences, including unclassified samples
 
 writeFasta(df4, "nifH_dada2_all.fasta")
 
 write.csv(df4, "nifH_dada2_all.csv")
 
-#files only Domain classification or more for each sequence
+#Generate fasta with only sequences classified to the Domain rank or more
 
 writeFasta(df5, "nifH_dada2_domain.fasta")
 
 write.csv(df5, "nifH_dada2_domain.csv")
 
 
-#files only Phylum classification or more for each sequence
+#Generate fasta with only sequences classified to the Phylum rank or more
 
 writeFasta(df6, "nifH_dada2_phylum.fasta")
 
