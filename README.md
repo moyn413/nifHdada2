@@ -18,7 +18,7 @@ Three versions of the database are included:
 3. Only sequences idetified to the Phylum level or more (nifH_dada2_phylum_v1.fasta)
 
 ## Please cite
-M. A. Moynihan. 10.5281/zenodo.3958365
+M. A. Moynihan. 2020. nifHdada2 GitHub repository. 10.5281/zenodo.3958365
 
 <a href="https://zenodo.org/badge/latestdoi/281839441"><img src="https://zenodo.org/badge/281839441.svg" alt="DOI"></a>
 
