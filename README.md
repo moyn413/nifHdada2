@@ -2,7 +2,7 @@
 This is a nifH database formated for dada2. 
 
 The database is based on the ARB nifH database from the Zehr Lab (Heller 2014), which was reformatted, modified, and updated. 
-A log of modifications can be found in this repository (link). Modifications were based on information available on NCBI. 
+A log of modifications can be found in this repository (Taxonomic_modifications.pdf). Modifications were based on information available on NCBI. 
 
 # Database generation
 Modifications were made directly in an XML file exported from ARB (nifH2017_mod_v1.xml.zip). The XML file contains detailed information for each entry, including accession number, full taxon name, taxonomy, amino acid and nucleotide sequences.
