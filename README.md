@@ -1,4 +1,4 @@
-# nifHdada2
+# nifH dada2
 This is a nifH database formated for dada2. 
 
 The database is based on the June 2017 ARB nifH database from the Zehr Lab (Heller 2014), which was reformatted, modified, and updated. 
