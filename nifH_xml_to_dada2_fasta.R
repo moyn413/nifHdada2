@@ -78,7 +78,7 @@ df4 <- df3 %>% mutate(tax= str_replace_all(df3$tax, "\\.", "\\;") %>% str_trim()
 ##---------------------------------------------------------------------------------
 
 
-df5 <- df4 %>% filter(!tax %in% c("other sequences; artificial sequences;", "unclassified sequences;", "other sequences; artificial sequences; vectors;","chloroplast;","plastid;"))
+df5 <- df4 %>% filter(!tax %in% c("other sequences; artificial sequences;", "unclassified sequences;", "other sequences; artificial sequences; vectors;"))
 
 df6 <- df5 %>% filter(!tax %in% c("Bacteria;", "Archaea;"))
 
