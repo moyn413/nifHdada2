@@ -1,8 +1,7 @@
 # nifH dada2
 This is a nifH database formated for the dada2 pipeline. 
 
-The database is based on the nifH ARB database from the Zehr Lab (Heller 2014) (version June 2017), which was reformatted, modified, and updated. 
-A log of modifications can be found in this repository ([Taxonomic_modifications.pdf](https://github.com/moyn413/nifHdada2/blob/master/Taxonomic_modifications.pdf)). Modifications were based on information available on NCBI. 
+The database is based on the nifH ARB database from the Zehr Lab (Heller 2014) (version June 2017), which was exported from ARB in XML format. The XML file was modified, updated, and reformatted. A log of modifications can be found in this repository ([Taxonomic_modifications.pdf](https://github.com/moyn413/nifHdada2/blob/master/Taxonomic_modifications.pdf)). Modifications were based on information available on NCBI. 
 
 ## Database generation
 The modified XML file included in this repository ([nifH_mod_v1.xml.zip](https://github.com/moyn413/nifHdada2/blob/master/XMLdatabase/nifH_mod_v1.xml.zip)) was used to generate a dada2 formatted database. The XML file contains detailed information for each entry, including accession number, full taxon name, taxonomy, amino acid and nucleotide sequences. The script for parsing data and generating the fasta file is also included in this repository ([nifH_xml_to_dada2_fasta.R](https://github.com/moyn413/nifHdada2/blob/master/XMLdatabase/nifH_xml_to_dada2_fasta.R)).
