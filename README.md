@@ -14,7 +14,7 @@ ACCTAGAAAGTCGTAGATCGAAGTTGAAGCATCGCCCGATGATCGTCTGAAGCTGTAGCATGAGTCGATTTTCACATTCA
 Three versions of the database are included: 
 1. All sequences from the original nifH database ([nifH_dada2_all_v1.fasta](https://github.com/moyn413/nifHdada2/blob/master/nifH_dada2_all_v1.fasta))
 2. Only sequences identified to the Domain level or more ([nifH_dada2_domain_v1.fasta](https://github.com/moyn413/nifHdada2/blob/master/nifH_dada2_domain_v1.fasta))
-3. Only sequences idetified to the Phylum level or more ([nifH_dada2_phylum_v1.fasta](https://github.com/moyn413/nifHdada2/blob/master/nifH_dada2_phylum_v1.fasta))
+3. **Only sequences idetified to the Phylum level or more ([nifH_dada2_phylum_v1.fasta](https://github.com/moyn413/nifHdada2/blob/master/nifH_dada2_phylum_v1.fasta)) (**recommended version)
 
 ## Please cite
 M. A. Moynihan. 2020. nifHdada2 GitHub repository. Zenodo. http://doi.org/10.5281/zenodo.3958370
