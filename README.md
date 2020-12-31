@@ -1,5 +1,5 @@
 # nifH dada2
-This is a nifH database formated for the dada2 pipeline. 
+This is a nifH database formatted for the dada2 pipeline. 
 
 The database is based on the nifH ARB database from the Zehr Lab (Heller 2014) (version June 2017), which was exported from ARB in XML format. The XML file was modified, updated, and reformatted. A log of modifications can be found in this repository ([Taxonomic_modifications.pdf](https://github.com/moyn413/nifHdada2/tree/master/Documentation/Taxonomic_modifications.pdf)). Modifications were based on information available on NCBI. 
 
