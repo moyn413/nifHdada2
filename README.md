@@ -13,7 +13,7 @@ Taxonomy in the fasta file is in the following format:
 > \>Domain; Phylum; Class; Order; Family; Genus
 ACCTAGAAAGTCGTAGATCGAAGTTGAAGCATCGCCCGATGATCGTCTGAAGCTGTAGCATGAGTCGATTTTCACATTCAGGGATACCATAGGATAC
 
-[nifH_dada2_phylum_v2.0.5.fasta](https://github.com/moyn413/nifHdada2/blob/master/nifH_dada2_phylum_v2.0.5.fasta) only includes sequences that have been identified to the phylum level or more. 
+[nifH_dada2_v2.0.5.fasta](https://github.com/moyn413/nifHdada2/blob/master/nifH_dada2_v2.0.5.fasta) only includes sequences that have been identified to the phylum level or more. 
 
 When assigning taxonomy, set minBoot = 0 and outputBootstraps = TRUE. Bootstrap filtering can then be performed after taxonomic assignment.
 
