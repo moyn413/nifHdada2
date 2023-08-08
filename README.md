@@ -1,5 +1,5 @@
 # nifH dada2 (v2)
-This is a nifH database formatted for the dada2 pipeline originally released as v1.1.0 (2020) and since updated to v2.0.5 (2023). 
+This is a nifH database formatted for the DADA2 pipeline originally released as v1.1.0 (2020) and since updated to v2.0.5 (2023). 
 
 In v2.0.5, taxonomy has been updated according to changes on NCBI. Additional sequences were added using Arbitrator 2023 to identify newly published nifH between 2017 and 2023, as well as from an NCD catalogue published by (Turk-Kubo et al. 2022).
 
