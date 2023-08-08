@@ -20,12 +20,12 @@ When assigning taxonomy, set minBoot = 0 and outputBootstraps = TRUE. Bootstrap 
 
 ## Please cite
 
-###v2.0.5
+### v2.0.5
 M. A. Moynihan & C. Furbo Reeder 2023. nifHdada2 GitHub repository, v2.0.5. Zenodo. (insert link)
 
 (insert link)
 
-###v1.1.0
+### v1.1.0
 
 M. A. Moynihan. 2020. nifHdada2 GitHub repository. Zenodo. http://doi.org/10.5281/zenodo.3958370
 
