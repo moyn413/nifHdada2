@@ -49,4 +49,4 @@ NCBI Resource Coordinators. Database resources of the National Center for Biotec
 
 
 ## Acknowledgements 
-We acknowledge support from Simons Foundation (Award#: 824763), NOTION by BNP Paribas Fundation for Climate and Biodiversity, MANIOC by Aix-Marseille University, and DINDE by CEFIPRA. We thank Jonathan Magasin for helpful discussions.
+We acknowledge support from Simons Foundation (Award#: 824763), the National Science Foundation PRFP program (Award #2205993), NOTION by BNP Paribas Fundation for Climate and Biodiversity, MANIOC by Aix-Marseille University, and DINDE by CEFIPRA. We thank Jonathan Magasin for helpful discussions.
