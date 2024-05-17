@@ -5,6 +5,8 @@ In v2.0.5, taxonomy has been updated according to changes on NCBI. Additional se
 
 The original database is based on the nifH ARB database from the Zehr Lab (Heller et al. 2014) (version June 2017), which was exported from ARB in XML format. The XML file was modified, updated, and reformatted and additional sequences were added, including nifH homologs from Cluster V (chlL/bchL)  (see [v1.1.0](https://github.com/moyn413/nifHdada2/tree/master/v1.1.0/Documentation) folder for detail). 
 
+For a nifD DADA2 formatted database, see [https://github.com/OceanBridges/nifDdada2](https://github.com/OceanBridges/nifDdada2)
+
 
 ## Database information
 
